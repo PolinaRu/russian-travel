@@ -1,0 +1,10 @@
+.header__lang-link {
+   margin: 0;
+}
+
+ul.header__lang-link li {
+    display: inline-block;
+    text-decoration: underline;
+    font-size: 24px;
+    margin-left: 18px;
+}
