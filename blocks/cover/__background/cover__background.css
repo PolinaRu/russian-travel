@@ -1,9 +1,11 @@
 .cover__background {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     text-align: center;
     max-width: 1184px;
+    /*height: calc(width);*/
     margin-top: 92px;
     background-image: url(../../../images/cover-trains.jpg);
     background-color: gray;
