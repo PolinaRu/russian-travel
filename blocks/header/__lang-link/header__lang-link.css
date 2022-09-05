@@ -8,3 +8,9 @@ ul.header__lang-link li {
     font-size: 24px;
     margin-left: 18px;
 }
+
+@media (max-width: 767px) {
+    ul.header__lang-link li {
+        font-size: 18px;
+    }
+}
