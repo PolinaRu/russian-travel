@@ -1,8 +1,25 @@
 .intro {
-    margin: 0;
-    margin-left: 148px;
-    padding: 96px 0 0;
+    padding: 96px 0 0 148px;
     display: flex;
     flex-direction: column;
-    max-width: 690px;
+    width: min(690px, 100%);
+}
+
+@media (max-width: 1023px) {
+    .intro {
+        width: min(720px, 100%);
+        padding-left: 48px;
+    }
+}
+@media (max-width: 767px) {
+    .intro {
+        width: min(720px, 100%);
+        padding: 88px 24px 0;
+    }
+}
+@media (max-width: 320px) {
+    .intro {
+        width: min(288px, 100%);
+        padding: 64px 16px 0;
+    }
 }
