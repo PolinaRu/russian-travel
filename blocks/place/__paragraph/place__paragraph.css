@@ -8,3 +8,9 @@
 .place__paragraph:nth-of-type(2) {
     margin-top: 26px;
 }
+
+@media (max-width: 767px) {
+    .place__paragraph {
+        font-size: 16px;
+    }
+}

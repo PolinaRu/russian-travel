@@ -3,6 +3,7 @@
     display: flex;
     flex-direction: column;
     width: min(690px, 100%);
+    box-sizing: border-box;
 }
 
 @media (max-width: 1023px) {
