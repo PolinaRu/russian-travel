@@ -3,3 +3,9 @@
     font-size: 14px;
     line-height: 16px;
 }
+
+@media (max-width: 767px) {
+    .footer__copyright {
+    padding-top: 48px;
+    }
+}
