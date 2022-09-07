@@ -1,11 +1,11 @@
 .cover {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    width: min(1184px, 100%);
-    margin: 92px auto 0;
-    background-color: gray;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: min(1184px, 100%);
+  margin: 92px auto 0;
+  background-color: gray;
 }

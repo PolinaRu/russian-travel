@@ -1,16 +1,16 @@
 .footer__ul {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 ul.footer__ul li {
-    display: inline-block;
+  display: inline-block;
 }
 
 @media (max-width: 767px) {
-    .footer__ul {
-        display: flex;
-        flex-direction: column;
-        gap: 32px;
-    }
+  .footer__ul {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
 }
