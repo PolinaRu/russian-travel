@@ -1,9 +1,29 @@
 .root {
   font-family: Inter, Arial, sans-serif;
-  background-color: black;
+  background-color: #2a2c2f;
   color: white;
+  width: min(1280px, 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
 }
 
 a:hover {
   opacity: 80%;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding: 0;
+  margin: 0;
 }
