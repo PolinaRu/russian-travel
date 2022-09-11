@@ -14,7 +14,6 @@
   
   @media (max-width: 1020px) {
     .place_places {
-      width: min(928px, 100%);
       padding: 12px 24px 0;
     }
   }
