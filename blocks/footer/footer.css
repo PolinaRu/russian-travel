@@ -1,19 +1,21 @@
 .footer {
-  margin: 92px 48px 24px;
+  padding: 92px 48px 24px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 @media (max-width: 767px) {
   .footer {
-    margin: 90px 24px 24px;
+    padding: 90px 24px 24px;
     flex-direction: column;
   }
 }
 
 @media (max-width: 320px) {
   .footer {
-    margin: 64px 16px 24px;
+    padding: 64px 16px 24px;
   }
 }
