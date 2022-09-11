@@ -1,3 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 .root {
   font-family: Inter, Arial, sans-serif;
   background-color: #2a2c2f;
@@ -11,23 +17,9 @@
 
 a {
   color: #FFF;
+  text-decoration: none;
 }
 
 a:hover {
   opacity: 80%;
-}
-
-p {
-  padding: 0;
-  margin: 0;
-}
-
-ul {
-  padding: 0;
-  margin: 0;
-}
-
-li {
-  padding: 0;
-  margin: 0;
 }

@@ -5,12 +5,12 @@
   align-items: end;
   padding: 28px 48px 0;
   width: 100%;
-  box-sizing: border-box;
 }
 
 @media (max-width: 767px) {
   .header {
-    padding: 28px 24px 0;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 
