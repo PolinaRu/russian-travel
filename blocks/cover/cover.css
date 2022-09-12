@@ -7,4 +7,6 @@
   text-align: center;
   width: min(1184px, 100%);
   margin: 92px auto 0;
+
+  background-image: url(../../images/cover-trains.jpg);
 }
