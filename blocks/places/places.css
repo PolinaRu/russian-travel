@@ -1,4 +1,4 @@
-.place_places {
+.places {
     padding-top: 12px;
     margin: 0 auto;
     width: min(984px, 100%);
@@ -6,20 +6,20 @@
   }
   
   @media (max-width: 1280px) {
-    .place_places {
+    .places {
       width: min(928px, 100%);
       padding: 12px 48px 0;
     }
   }
   
   @media (max-width: 1020px) {
-    .place_places {
+    .places {
       padding: 12px 24px 0;
     }
   }
   
   @media (max-width: 767px) {
-    .place_places {
+    .places {
       width: min(720px, 100%);
       padding: 12px 16px 0;
     }
