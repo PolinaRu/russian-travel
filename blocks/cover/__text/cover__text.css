@@ -1,8 +1,0 @@
-.cover__text {
-  position: absolute;
-  z-index: 2;
-}
-
-.cover__text:hover + .cover__overlay {
-  background-image: linear-gradient(#2a2c2f88,#2a2c2f88), url(../../../images/cover-trains.jpg);
-}

@@ -5,18 +5,18 @@
   margin: 92px 48px 0;
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 1278px) {
   .photo-grid {
     grid-template-columns: repeat(3, auto);
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 1023px) {
   .photo-grid {
     grid-template-columns: repeat(2, auto);
     margin: 88px 24px 0;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .photo-grid {
     grid-template-columns: repeat(1, auto);
     gap: 12px;

@@ -3,6 +3,11 @@
   line-height: 1.22;
   font-weight: 400;
   text-decoration: underline;
+  color: #fff;
   letter-spacing: normal;
   padding-top: 12px;
+}
+
+.place__link:hover {
+  opacity: 80%;
 }
