@@ -14,14 +14,15 @@
     padding-left: 48px;
   }
 }
-@media (max-width: 767px) {
-  .intro {
-    padding: 88px 24px 0;
+@media (max-width: 768px) {
+  .intro {    
+    width: min(744px, 100%);
+    padding: 88px 0 0 24px;
   }
 }
 @media (max-width: 320px) {
   .intro {
-    width: min(318px, 100%);
+    width: min(320px, 100%);
     padding: 64px 16px 0;
   }
 }
