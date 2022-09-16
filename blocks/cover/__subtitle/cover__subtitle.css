@@ -4,6 +4,9 @@
   font-weight: 400;
   margin: 32px auto 0;
   max-width: 360px;
+  
+  position: relative;
+  z-index: 2;
 }
 
 @media (max-width: 767px) {
