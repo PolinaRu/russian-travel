@@ -1,27 +1,18 @@
 .places {
-    padding-top: 12px;
-    margin: 0 auto;
+    padding: 0;
+    margin: 92px auto 0;
     width: min(984px, 100%);
     box-sizing: border-box;
   }
   
-  @media (max-width: 1280px) {
+  @media (max-width: 1024px) {
     .places {
       width: min(928px, 100%);
-      padding: 12px 48px 0;
     }
   }
   
-  @media (max-width: 1020px) {
-    .places {
-      padding: 12px 24px 0;
-    }
-  }
-  
-  @media (max-width: 767px) {
+  @media (max-width: 768px) {
     .places {
       width: min(720px, 100%);
-      padding: 12px 0 0;
     }
   }
-  

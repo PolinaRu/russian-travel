@@ -6,7 +6,7 @@
   text-transform: uppercase;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .lead__caption {
     padding-left: 24px;
   }

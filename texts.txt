@@ -83,4 +83,7 @@ https://calendar.yandex.ru
 
 
 
-https://polinaru.github.io/russian-travel/index.html
+https://PolinaRu.github.io/russian-travel/
+
+
+https://PolinaRu.github.io/Test_share/

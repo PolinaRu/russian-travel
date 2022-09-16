@@ -28,5 +28,17 @@
 }
 
 .cover:hover::before {
-  background-image: linear-gradient(#2a2c2f88,#2a2c2f88), url(../../images/cover-trains.jpg);
+  background-image: linear-gradient(#2a2c2f50,#2a2c2f50), url(../../images/cover-trains.jpg);
+}
+
+@media (max-width: 768px) {
+  .cover {
+    margin-top: 90px;
+  }
+}
+
+@media (max-width: 600px) {
+  .cover {
+    margin-top: 60px;
+  }
 }
