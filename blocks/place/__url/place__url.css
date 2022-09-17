@@ -1,8 +1,10 @@
 .place__url {
     align-self: end;
+    
+    box-sizing: border-box;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 700px) {
     .place__url {
       padding: 0 16px 0;
     }
